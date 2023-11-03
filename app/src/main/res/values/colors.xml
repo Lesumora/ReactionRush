@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_1_1">#28313b</color>
+    <color name="bg_1_2">#485461</color>
+
+    <color name="bg_2_1">#28313b</color>
+    <color name="bg_2_2">#28313b</color>
+
+    <color name="bg_3_1">#473146</color>
+    <color name="bg_3_2">#6782b4</color>
+
+    <color name="bg_4_1">#30313b</color>
+    <color name="bg_4_2">#30313b</color>
+
+    <color name="bg_5_1">#8e9eab</color>
+    <color name="bg_5_2">#eef2f3</color>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="brown">#D2691E</color>
+
+    <integer-array name="changeColor">
+        <item>@color/blue</item>
+        <item>@color/black</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/red</item>
+        <item>@color/cyan</item>
+        <item>@color/magenta</item>
+        <item>@color/brown</item>
+    </integer-array>
+
+</resources>

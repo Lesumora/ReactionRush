@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reaction Rush</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="cyan">CYAN</string>
+    <string name="magenta">MAGENTA</string>
+    <string name="brown">BROWN</string>
+    <string name="black">BLACK</string>
+
+    <string-array name="colorText">
+        <item>@string/blue</item>
+        <item>@string/black</item>
+        <item>@string/green</item>
+        <item>@string/yellow</item>
+        <item>@string/red</item>
+        <item>@string/cyan</item>
+        <item>@string/magenta</item>
+        <item>@string/brown</item>
+    </string-array>
+</resources>
